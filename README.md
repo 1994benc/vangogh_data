@@ -3,4 +3,4 @@ Data courtesy of vangoghletters.org and various sources
 
 # Main files
 - artwork_big_file.csv
-- prepped_letter_data.csv
+- letters_ready_for_js.csv
